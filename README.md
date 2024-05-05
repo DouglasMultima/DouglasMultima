@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻Um pouco mais sobre mim</summary>
 
-  - 💬 Eu tenho experiência com bancos de dados Firebase, banco de dados interno e atualmente estou me desenvolvendo em desenvolvimento de app Mobile,já tive um pouco de experiência com  a linguagem de programação Java,C e python,  mas atualmente estou procurando ganhar cada vez mais experiência  com projetos nativos Android com a linguagem Kotlin.
+  - 💬 Eu tenho experiência com bancos de dados Firebase, banco de dados interno e atualmente estou me desenvolvendo em criação de app Mobile,já tive um pouco de experiência com  a linguagem de programação Java,C e python,  mas atualmente estou procurando ganhar cada vez mais experiência  com projetos nativos Android com a linguagem Kotlin.
 
   - ⚡Sou um mega fã de animes/mangás/manhwas e adoro assistir séries e filmes relacionados a super heróis \o/
 </details>
